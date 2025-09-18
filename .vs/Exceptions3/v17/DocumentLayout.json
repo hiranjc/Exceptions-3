@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ET73\\Downloads\\projetos-c#\\Exceptions3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B86E4875-F96F-4F8D-AAAB-7A57F5C06E88}|Exceptions3.csproj|c:\\users\\et73\\downloads\\projetos-c#\\exceptions3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B86E4875-F96F-4F8D-AAAB-7A57F5C06E88}|Exceptions3.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B86E4875-F96F-4F8D-AAAB-7A57F5C06E88}|Exceptions3.csproj|c:\\users\\et73\\downloads\\projetos-c#\\exceptions3\\entities\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B86E4875-F96F-4F8D-AAAB-7A57F5C06E88}|Exceptions3.csproj|solutionrelative:entities\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B86E4875-F96F-4F8D-AAAB-7A57F5C06E88}|Exceptions3.csproj|c:\\users\\et73\\downloads\\projetos-c#\\exceptions3\\entities\\exceptions\\domainexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B86E4875-F96F-4F8D-AAAB-7A57F5C06E88}|Exceptions3.csproj|solutionrelative:entities\\exceptions\\domainexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DomainException.cs",
+              "DocumentMoniker": "C:\\Users\\ET73\\Downloads\\projetos-c#\\Exceptions3\\Entities\\Exceptions\\DomainException.cs",
+              "RelativeDocumentMoniker": "Entities\\Exceptions\\DomainException.cs",
+              "ToolTip": "C:\\Users\\ET73\\Downloads\\projetos-c#\\Exceptions3\\Entities\\Exceptions\\DomainException.cs",
+              "RelativeToolTip": "Entities\\Exceptions\\DomainException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T19:19:47.083Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Account.cs",
+              "DocumentMoniker": "C:\\Users\\ET73\\Downloads\\projetos-c#\\Exceptions3\\Entities\\Account.cs",
+              "RelativeDocumentMoniker": "Entities\\Account.cs",
+              "ToolTip": "C:\\Users\\ET73\\Downloads\\projetos-c#\\Exceptions3\\Entities\\Account.cs",
+              "RelativeToolTip": "Entities\\Account.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAUwCcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T19:20:32.724Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ET73\\Downloads\\projetos-c#\\Exceptions3\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\ET73\\Downloads\\projetos-c#\\Exceptions3\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAiwCQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T19:17:11.324Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

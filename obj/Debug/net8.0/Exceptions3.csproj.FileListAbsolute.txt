@@ -1,0 +1,14 @@
+C:\Users\ET73\Downloads\projetos-c#\Exceptions3\obj\Debug\net8.0\Exceptions3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ET73\Downloads\projetos-c#\Exceptions3\obj\Debug\net8.0\Exceptions3.AssemblyInfoInputs.cache
+C:\Users\ET73\Downloads\projetos-c#\Exceptions3\obj\Debug\net8.0\Exceptions3.AssemblyInfo.cs
+C:\Users\ET73\Downloads\projetos-c#\Exceptions3\obj\Debug\net8.0\Exceptions3.csproj.CoreCompileInputs.cache
+C:\Users\ET73\Downloads\projetos-c#\Exceptions3\bin\Debug\net8.0\Exceptions3.exe
+C:\Users\ET73\Downloads\projetos-c#\Exceptions3\bin\Debug\net8.0\Exceptions3.deps.json
+C:\Users\ET73\Downloads\projetos-c#\Exceptions3\bin\Debug\net8.0\Exceptions3.runtimeconfig.json
+C:\Users\ET73\Downloads\projetos-c#\Exceptions3\bin\Debug\net8.0\Exceptions3.dll
+C:\Users\ET73\Downloads\projetos-c#\Exceptions3\bin\Debug\net8.0\Exceptions3.pdb
+C:\Users\ET73\Downloads\projetos-c#\Exceptions3\obj\Debug\net8.0\Exceptions3.dll
+C:\Users\ET73\Downloads\projetos-c#\Exceptions3\obj\Debug\net8.0\refint\Exceptions3.dll
+C:\Users\ET73\Downloads\projetos-c#\Exceptions3\obj\Debug\net8.0\Exceptions3.pdb
+C:\Users\ET73\Downloads\projetos-c#\Exceptions3\obj\Debug\net8.0\Exceptions3.genruntimeconfig.cache
+C:\Users\ET73\Downloads\projetos-c#\Exceptions3\obj\Debug\net8.0\ref\Exceptions3.dll
